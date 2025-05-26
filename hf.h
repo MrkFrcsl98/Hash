@@ -1,7 +1,7 @@
 #ifndef HASH_SINGLE_HEADER_H
 #define HASH_SINGLE_HEADER_H
 
-#include <stddef.h>
+#include <stddef.h> 
 #include <stdint.h>
 #include <string.h>
 
